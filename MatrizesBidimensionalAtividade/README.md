@@ -1,18 +1,7 @@
-## Getting Started
-
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Faça um programa obrigatoriamente em JAVA que:
+1. Leia o tamanho de uma matriz bidimensional
+2. Crie uma matriz bidimensional com as dimensões informadas
+3. Preencha cada elemento da matriz com um valor aleatório de 0 a 9
+4. Mostre a matriz preenchida na tela
+5. Some todos os elementos de cada linha da matriz
+6. Mostrar a linha da matriz que tiver a maior soma.
